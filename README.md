@@ -1,7 +1,7 @@
 <h1 align="center">DESAFIO CARD</h1>
 
 <h2 align="center">
-    <a href="">🔗 Desafio Card</a>
+    <a href="https://thaissacarvalho.github.io/Desafio-Card/">🔗 Desafio Card</a>
 </h2>
 
 <h3>✍🏾 Descrição</h3>
@@ -16,6 +16,6 @@
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html) <br>
 </p>
 
-<h3>Autor(a)</h3>
+<h3 align="center">Autor(a)</h3>
 
-<p align="center"> Feito por Thaissa Carvalho. </p> 
+<p align="center"> Feito por Thaissa Carvalho. </p>
